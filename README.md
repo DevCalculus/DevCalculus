@@ -35,11 +35,8 @@ I am a PhD student in Mechanical Engineering at UBC Vancouver, focusing on numer
 - **Presidential Excellence Award, UBC** (2024, 2025)  
 - **Best Research Poster — CMBBE** (2024)  
 - **Ambassador PhD Fellowship — UBC** (2024)  
-- **Graduate Research Assistantship — UBC** (2022)  
-- **Best GTA — Nile University** (2022)  
-- **Second Best Graduating Student — LAUTECH** (2021)  
-- **Best Undergraduate Project — LAUTECH** (2021)
-
+- **Graduate Research Assistantship — UBC** (2022)   
+- **Second Best Graduating Student (FET/Mechanical Engineering) — LAUTECH** (2021)  
 ---
 
 ### 🛠️ Technical Skills
