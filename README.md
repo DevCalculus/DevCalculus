@@ -1,60 +1,73 @@
-<div align="center">
-
 # Isreal Morawo
-**PhD Researcher · Mechanical Engineering · UBC Vancouver**
-
-Numerical simulation of **passive & active chiral nematics** · Liquid crystal hydrodynamics · Topological defects · Soft matter physics
-
-</div>
+**PhD Researcher · Mechanical Engineering · UBC Vancouver**  
+`@DevCalculus`
 
 ---
 
-### Tech stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![OpenFOAM](https://img.shields.io/badge/OpenFOAM-FF0000?style=for-the-badge&logoColor=white)
-![COMSOL](https://img.shields.io/badge/COMSOL-039BE5?style=for-the-badge&logoColor=white)
-![ParaView](https://img.shields.io/badge/ParaView-blue?style=for-the-badge&logoColor=white)
-
-### Research areas
-
-![](https://img.shields.io/badge/Passive%20Chiral%20Nematics-1D9E75?style=flat-square)
-![](https://img.shields.io/badge/Active%20Chiral%20Nematics-1D9E75?style=flat-square)
-![](https://img.shields.io/badge/Topological%20Defects-7F77DD?style=flat-square)
-![](https://img.shields.io/badge/Q--tensor%20%2F%20Landau--de%20Gennes-7F77DD?style=flat-square)
-![](https://img.shields.io/badge/CFD-378ADD?style=flat-square)
-![](https://img.shields.io/badge/Soft%20Matter-BA7517?style=flat-square)
+I study the hydrodynamics and microstructural dynamics of **passive and active chiral nematics** — liquid crystal phases where chirality couples with flow, confinement, and activity to produce rich topological phenomena. My work combines continuum mechanics, the Landau–de Gennes Q-tensor framework, and high-fidelity numerical simulation to understand how chirality, defect topology, and chaotic dynamics emerge in confined geometries.
 
 ---
 
-### GitHub stats
+## Research Focus
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DevCalculus&show_icons=true&theme=github_dark&hide_border=true&title_color=1D9E75&icon_color=7F77DD" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevCalculus&layout=compact&theme=github_dark&hide_border=true&title_color=1D9E75" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevCalculus&theme=github-dark-blue&hide_border=true&ring=1D9E75&fire=7F77DD&currStreakLabel=1D9E75" />
-</p>
-
----
-
-### Publications & recognition
-
-![](https://img.shields.io/badge/Physics%20of%20Fluids%20(2025)-published-1D9E75?style=flat-square)
-![](https://img.shields.io/badge/ECLC%202025%20Prague-invited%20talk-7F77DD?style=flat-square)
-![](https://img.shields.io/badge/Best%20Poster%20CMBBE%202024-award-BA7517?style=flat-square)
-![](https://img.shields.io/badge/Presidential%20Excellence%20UBC-2024%20|%202025-378ADD?style=flat-square)
-![](https://img.shields.io/badge/Ambassador%20PhD%20Fellowship-UBC%202024-378ADD?style=flat-square)
-![](https://img.shields.io/badge/MITACs%20Accelerate%20Grant-2025-378ADD?style=flat-square)
+| Passive systems | Active systems |
+|---|---|
+| Cholesteric & nematic hydrodynamics | Active chiral nematics |
+| Confined channel & cavity flows | Chirality–activity coupling |
+| Sudden contraction geometries | Defect dynamics & chaos |
+| Lid-driven cavity microstructure | Topological defect nucleation |
+| Prosthetic joint lubrication | Emergent collective flows |
 
 ---
 
-### Connect
+## Publications & Talks
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isreal-morawo-masc-410779184/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:moore172@student.ubc.ca)
-[![CV / Portfolio](https://img.shields.io/badge/CV%20%2F%20Portfolio-24292e?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1NoAQbdIRngEtyDhHCppU-tYS_PeJ88-Q)
+**Chirality, Confinement, and Chaos in Cholesteric Liquid Crystals**  
+ECLC 2025 — Prague
+
+**Hydrodynamics of Chiral Nematics in a Channel and Sudden Contraction Geometry**  
+*Physics of Fluids* (2025)
+
+**Microstructural Evolution of Chiral Nematics: Lid-Driven Cavity Flow**  
+CSME/CFDSC/CSR 2025 — Montréal
+
+**Hydrodynamics of Chiral Liquid Crystals in Confined Geometries**  
+Society of Rheology Meeting 2024 — Austin
+
+**Nematic Liquid Crystal Flow in a Prosthetic Hip Joint** · 🏆 Best Poster  
+CMBBE 2024 — Vancouver
+
+---
+
+## Honors & Awards
+
+| Year | Award |
+|------|-------|
+| 2025 | Norman and Gwendelyne Moysa Memorial Award |
+| 2025 | Globalink MITACs Accelerate Grant |
+| 2025 | Faculty of Applied Science Academic Award, UBC |
+| 2025 | Presidential Excellence Award, UBC |
+| 2024 | Departmental Scholar Award, UBC |
+| 2024 | Presidential Excellence Award, UBC |
+| 2024 | Best Research Poster — CMBBE |
+| 2024 | Ambassador PhD Fellowship, UBC |
+| 2022 | Graduate Research Assistantship, UBC |
+| 2021 | 2nd Best Graduating Student, FET Mechanical Engineering — LAUTECH |
+
+---
+
+## Technical Toolkit
+
+**Languages** · Python · MATLAB · C++  
+**Software** · COMSOL Multiphysics · OpenFOAM · ParaView  
+**Methods** · Q-tensor / Landau–de Gennes · FEM · FVM · Continuum mechanics
+
+---
+
+## Connect
+
+- **LinkedIn** — [Isreal Morawo](https://www.linkedin.com/in/isreal-morawo-masc-410779184/)
+- **Email** — [moore172@student.ubc.ca](mailto:moore172@student.ubc.ca)
+- **CV / Portfolio** — [Google Drive](https://drive.google.com/drive/folders/1NoAQbdIRngEtyDhHCppU-tYS_PeJ88-Q)
+
+Open to collaborations in numerical methods, CFD, and soft matter mechanics.
